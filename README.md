@@ -1,8 +1,16 @@
-# My Rwanda Website
+# Getting started
 
-#### I re-designed the visit rwanda website using technologies such as 
-##### Bootstrap 4, light-box.css, hover.css.
-##### This project was done with the aim of increasing my technical abilities. 
-### To check out the website, 
-#### click the link below
-https://ifeanyi-visitrwanda.netlify.app/
+## Description
+
+This is a re-design of a tour website called 'VISIT RWANDA WEBSITE' 
+
+## Tools used
+This project was created using Bootstrap 4, lightbox.css, hover.css
+
+## Aim
+This project was done to improve my technical abilities.
+
+## Check out the web app
+open [Rwanda](https://ifeanyi-visitrwanda.netlify.app/) to view it in the browser.
+
+
